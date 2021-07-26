@@ -18,4 +18,4 @@
  - 학습모델의 마지막 아웃풋레이어의 활성화함수를 softmax로 하여 각 카테고리의 확률을 토대로 다중분류를 하였음
  - 각 카테고리에 해당될 확률을 내포하고있었고, 각 확률의 총 합은 1
  - 이미지의 크기가 작고 많은 데이터 양으로 짧은 시간에 정확한 인공지능모델을 테스트해볼 수 있었음
-<img src="https://user-images.githubusercontent.com/87750521/127043668-43396974-b14a-44e6-ac7a-9645cd1b4d35.png" width="450" height="300">
+<img src="https://user-images.githubusercontent.com/87750521/127043668-43396974-b14a-44e6-ac7a-9645cd1b4d35.png" width="360" height="200">
